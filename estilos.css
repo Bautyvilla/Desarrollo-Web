@@ -1,0 +1,30 @@
+body {
+  background-color: yellow;
+  font-family: Arial;
+  margin: 20px;
+}
+h1{
+  color: #800000;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 250%
+}
+h2{
+  color: #b22222;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 150%;
+}
+li, p {
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 110%;
+}
+.just {
+  text-align: justify;
+}
+,imagen {
+  width: 450px;
+  height: 300px;
+}
